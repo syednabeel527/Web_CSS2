@@ -3,10 +3,20 @@
 
 }
 
-h3{
-    color: purple;
+#login {
+    background: #b92b27;
+    color: white;
+}
+
+#signup {
+    background: #b92b27;
+    color: white;
 }
 
 h1 {
-    color: #b92b27
+    color: #b92b27 
+}
+
+.upvote {
+    background-color: green;
 }
