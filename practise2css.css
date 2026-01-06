@@ -1,3 +1,25 @@
 #myid p{
     color: green;
 }
+
+Button:hover{
+    background-color: black;
+    color: white;
+}
+
+h3{
+    text-decoration: underline;
+}
+
+h3:hover {
+    text-decoration: none;
+}
+
+button:active{
+    background-color: pink;
+}
+
+input[type="radio"]:checked + label{
+    color:red;
+    font-weight: bold;
+}
